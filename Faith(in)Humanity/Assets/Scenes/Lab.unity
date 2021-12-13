@@ -2517,7 +2517,7 @@ MonoBehaviour:
   directControllerScript: {fileID: 1419524215}
   raycastControllerScript: {fileID: 1419524213}
   ConfirmPouring: {fileID: 981920294}
-  checkLabAreaScript: {fileID: 0}
+  checkLabAreaScript: {fileID: 1606603464}
   allowPourEnter: 0
 --- !u!65 &186681200
 BoxCollider:
@@ -16932,7 +16932,7 @@ Transform:
   m_LocalScale: {x: 2.7721262, y: 1.3380071, z: 0.7421258}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1606603464
 MonoBehaviour:
@@ -19245,7 +19245,7 @@ Transform:
   m_LocalScale: {x: 4.4514885, y: 1.4287928, z: 2.292015}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1787975053
 MonoBehaviour:

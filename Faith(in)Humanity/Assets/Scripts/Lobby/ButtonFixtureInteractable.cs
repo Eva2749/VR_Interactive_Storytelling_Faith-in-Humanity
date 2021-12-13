@@ -121,7 +121,7 @@ public class ButtonFixtureInteractable : XRBaseInteractable
 
     IEnumerator WaitBeforeNotification()
     { 
-        yield return new WaitForSeconds(2); 
+        yield return new WaitForSeconds(6); 
         Notification.Play();
         Notification.loop = true;
         BlinkNow =true;
