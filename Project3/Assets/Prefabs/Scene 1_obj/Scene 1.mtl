@@ -1,0 +1,152 @@
+# Apple ModelI/O MTL File: Scene 1.mtl
+
+newmtl material_1
+	map_Kd Texture_E14B0ADD-E850-4D52-AEC1-8CB4FFA6EE6F_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_E14B0ADD-E850-4D52-AEC1-8CB4FFA6EE6F_1_metalness.png
+	specularTint 0
+	map_roughness Texture_E14B0ADD-E850-4D52-AEC1-8CB4FFA6EE6F_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_2
+	map_Kd Texture_093C2923-A5D6-4DBC-AB74-CF010887BC91_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_093C2923-A5D6-4DBC-AB74-CF010887BC91_1_metalness.png
+	specularTint 0
+	map_roughness Texture_093C2923-A5D6-4DBC-AB74-CF010887BC91_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_3
+	map_Kd Texture_B2F51A67-8079-435E-AC34-198578EBFFDD_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_B2F51A67-8079-435E-AC34-198578EBFFDD_1_metalness.png
+	specularTint 0
+	map_roughness Texture_B2F51A67-8079-435E-AC34-198578EBFFDD_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_4
+	map_Kd Texture_907761C0-776F-4885-B337-0DA443EF92B1_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_907761C0-776F-4885-B337-0DA443EF92B1_1_metalness.png
+	specularTint 0
+	map_roughness Texture_907761C0-776F-4885-B337-0DA443EF92B1_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_5
+	map_Kd Texture_3582A0B9-5702-46AC-BE96-9A292C72E4B9_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_3582A0B9-5702-46AC-BE96-9A292C72E4B9_1_metalness.png
+	specularTint 0
+	map_roughness Texture_3582A0B9-5702-46AC-BE96-9A292C72E4B9_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_6
+	map_Kd Texture_B27608EE-FF17-4DE3-BA0C-C80AE3C5FF8F_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_B27608EE-FF17-4DE3-BA0C-C80AE3C5FF8F_1_metalness.png
+	specularTint 0
+	map_roughness Texture_B27608EE-FF17-4DE3-BA0C-C80AE3C5FF8F_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_7
+	map_Kd Texture_1FD757A3-1443-4DDE-B826-F6E61A9C4BEA_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_1FD757A3-1443-4DDE-B826-F6E61A9C4BEA_1_metalness.png
+	specularTint 0
+	map_roughness Texture_1FD757A3-1443-4DDE-B826-F6E61A9C4BEA_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_8
+	map_Kd Texture_21866340-2D7E-40A2-A00E-011E94716303_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_21866340-2D7E-40A2-A00E-011E94716303_1_metalness.png
+	specularTint 0
+	map_roughness Texture_21866340-2D7E-40A2-A00E-011E94716303_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_9
+	map_Kd Texture_D66AC7B6-A42D-4BEF-89C6-CD416F651A99_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_D66AC7B6-A42D-4BEF-89C6-CD416F651A99_1_metalness.png
+	specularTint 0
+	map_roughness Texture_D66AC7B6-A42D-4BEF-89C6-CD416F651A99_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_10
+	map_Kd Texture_4607FE77-56F9-4D80-894D-B87FC383D577_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_4607FE77-56F9-4D80-894D-B87FC383D577_1_metalness.png
+	specularTint 0
+	map_roughness Texture_4607FE77-56F9-4D80-894D-B87FC383D577_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

@@ -1,0 +1,17 @@
+# Apple ModelI/O MTL File: Door.mtl
+
+newmtl material_1
+	map_Kd Texture_7AD083C1-35AA-4E3F-936D-BF1C61FAB1E4_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_7AD083C1-35AA-4E3F-936D-BF1C61FAB1E4_1_metalness.png
+	specularTint 0
+	map_roughness Texture_7AD083C1-35AA-4E3F-936D-BF1C61FAB1E4_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

@@ -1,0 +1,52 @@
+{
+    "name": "RightHandInputActions",
+    "maps": [
+        {
+            "name": "RightHandInput",
+            "id": "228a8c0c-2cf6-48b1-9267-5eef056e9cc8",
+            "actions": [
+                {
+                    "name": "Grip",
+                    "type": "Value",
+                    "id": "2118d906-29a1-49d0-ac89-0d5a8eebb229",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Point",
+                    "type": "Value",
+                    "id": "b62e4b46-fad3-420a-aea2-440c7318fed6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "631db72a-2a90-4309-8315-a92e65001198",
+                    "path": "<XRController>{RightHand}/grip",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3bbdd876-1ad0-483d-a910-521b64a380c2",
+                    "path": "<XRController>{RightHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Point",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

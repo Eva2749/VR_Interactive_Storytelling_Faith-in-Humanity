@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlantGrow
+  m_Shader: {fileID: -6465566751694194690, guid: b1e045386b7bb444dbdcccd056871d33, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Triplanar_9569229f32b44c8cb6ea65b7b2e9c30d_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_21deb5a4dd6140d4968537df39e42b9b: 0
+    - Vector1_5fc23dfe977541a39ec98e1118b07d0d: 0
+    - Vector1_a4ee7ae4ac1d429482c69c97bc131036: 0
+    - Vector1_b1030a02e09b43d9a2caa238b471eec5: 0
+    - Vector1_c2fde816bde14f2ab52ce039bbcd53b7: 0.491
+    - _Grow: -1.67
+    m_Colors:
+    - Color_4670886568344993a2eb45565b191258: {r: 0.7170361, g: 0.8018868, b: 0.5182004, a: 0}
+    - Vector3_b92df2008ef344fda3d8e29e7b3135cf: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

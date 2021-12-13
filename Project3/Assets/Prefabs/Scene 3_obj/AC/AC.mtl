@@ -1,0 +1,17 @@
+# Apple ModelI/O MTL File: AC.mtl
+
+newmtl material_1
+	map_Kd Texture_2E955293-FF65-499F-AD7A-DBEC2C969BF6_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_2E955293-FF65-499F-AD7A-DBEC2C969BF6_1_metalness.png
+	specularTint 0
+	map_roughness Texture_2E955293-FF65-499F-AD7A-DBEC2C969BF6_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

@@ -1,0 +1,17 @@
+# Apple ModelI/O MTL File: Exit.mtl
+
+newmtl material_1
+	map_Kd Texture_E5576A24-0115-4ED0-B9FA-6739ED164FAB_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_E5576A24-0115-4ED0-B9FA-6739ED164FAB_1_metalness.png
+	specularTint 0
+	map_roughness Texture_E5576A24-0115-4ED0-B9FA-6739ED164FAB_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

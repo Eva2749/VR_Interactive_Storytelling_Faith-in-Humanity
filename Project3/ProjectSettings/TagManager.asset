@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - XRRigOrigin
+  - XRRig
+  - XRSceneController
+  - Holograph
+  - user
+  - GovOfficial
+  - Right Hand
+  - Dialogue Controller
+  - cult1
+  - cult2
+  - cult3
+  - chemical
+  - DirectController
+  - RaycastController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - XR Persistent Visuals
+  - Water
+  - UI
+  - XR Raycast
+  - Holograph
+  - Interactable
+  - user
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

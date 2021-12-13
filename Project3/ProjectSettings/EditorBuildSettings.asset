@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/XR.unity
+    guid: 25b2b3b9b100f1b43b0b330f2d1f82c3
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 99777e6eccf7e514ab6cb0f7d4debe61
+  - enabled: 1
+    path: Assets/Scenes/Corridor.unity
+    guid: 51370e937c8ac48adbe2a641b5608626
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: 6900fc4462fc34f37a4d45bb4df6ffb5
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 161bf4aaf685f45c3b795654e9ef0120
+  - enabled: 1
+    path: Assets/Scenes/FinLobby.unity
+    guid: ba2dc9f2f60c8b54980f024e425b179c
+  - enabled: 1
+    path: Assets/Scenes/Outside Ending.unity
+    guid: e29a3cdeb605a476c9ac38dfea9688d0
+  - enabled: 1
+    path: Assets/Scenes/Spaceship Ending.unity
+    guid: 069f85d1d10504e03b0e60196d1fa524
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 435f8bcc664c895419c2d1dc46f79697, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: d3b3e2d9b32b2458ea4138016594a9ed, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 871ad90ddd6829e42878eeb2fc491ecc, type: 2}

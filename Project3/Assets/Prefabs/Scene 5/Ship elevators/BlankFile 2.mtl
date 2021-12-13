@@ -1,0 +1,47 @@
+# Apple ModelI/O MTL File: BlankFile 2.mtl
+
+newmtl material_1
+	map_Kd Texture_3F5F1F05-3646-4C7C-8703-839EB247A023_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_3F5F1F05-3646-4C7C-8703-839EB247A023_1_metalness.png
+	specularTint 0
+	map_roughness Texture_3F5F1F05-3646-4C7C-8703-839EB247A023_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_2
+	map_Kd Texture_325969B1-F757-4BDF-AA7E-4C4ABD87E4AC_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_325969B1-F757-4BDF-AA7E-4C4ABD87E4AC_1_metalness.png
+	specularTint 0
+	map_roughness Texture_325969B1-F757-4BDF-AA7E-4C4ABD87E4AC_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl material_3
+	map_Kd Texture_12CEE325-1875-40EB-A42B-B101AF6C7530_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_12CEE325-1875-40EB-A42B-B101AF6C7530_1_metalness.png
+	specularTint 0
+	map_roughness Texture_12CEE325-1875-40EB-A42B-B101AF6C7530_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

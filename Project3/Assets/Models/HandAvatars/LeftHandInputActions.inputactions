@@ -1,0 +1,52 @@
+{
+    "name": "LeftHandInputActions",
+    "maps": [
+        {
+            "name": "LeftHandInput",
+            "id": "9c54dad7-1ac4-45d4-9843-b26dfd729b12",
+            "actions": [
+                {
+                    "name": "Grip",
+                    "type": "Value",
+                    "id": "bba5aab1-83ff-4f4d-bd23-58bf72e16d18",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Point",
+                    "type": "Value",
+                    "id": "1a18aafc-46a2-4c71-a4a1-df314ae9beb9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "14c764b4-da32-4fe9-a965-b656dcc5cf5b",
+                    "path": "<XRController>{LeftHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Point",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "47ef6cdb-eabe-4a51-a04b-007caa7cec3d",
+                    "path": "<XRController>{LeftHand}/grip",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

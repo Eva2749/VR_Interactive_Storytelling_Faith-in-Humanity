@@ -1,0 +1,17 @@
+# Apple ModelI/O MTL File: Scene.mtl
+
+newmtl material_1
+	map_Kd Texture_C19CB4E6-0A1B-4CAF-AFF3-E6D0A2515DBB_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_C19CB4E6-0A1B-4CAF-AFF3-E6D0A2515DBB_1_metalness.png
+	specularTint 0
+	map_roughness Texture_C19CB4E6-0A1B-4CAF-AFF3-E6D0A2515DBB_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

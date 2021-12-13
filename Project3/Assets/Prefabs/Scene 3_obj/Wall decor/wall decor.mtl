@@ -1,0 +1,17 @@
+# Apple ModelI/O MTL File: wall decor.mtl
+
+newmtl material_1
+	map_Kd Texture_0BC1F31C-5AB6-49CF-AD97-9592C10AF6D2_1_albedo.png
+	Ka 0.2 0.2 0.2
+	Ks 0 0 0
+	ao 1 1 1
+	subsurface 0
+	map_metallic Texture_0BC1F31C-5AB6-49CF-AD97-9592C10AF6D2_1_metalness.png
+	specularTint 0
+	map_roughness Texture_0BC1F31C-5AB6-49CF-AD97-9592C10AF6D2_1_roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
