@@ -32,6 +32,50 @@ The lab scene is the player’s first encounter with the group of interest — t
 ![image](https://user-images.githubusercontent.com/71305489/182591126-46b2e9ef-e12c-404c-8260-1cfe6e8a09ea.png)
 
 
-
-
 ## Scene 4 - The Outside
+![image](https://user-images.githubusercontent.com/71305489/182640143-7ba23c4b-20d5-468a-a0a5-a5d64dfcdb84.png)
+
+### Background
+The outside scene is where the inventor encounters another two groups of people who hold vastly different opinions about the right choice about humankinds’ fate. One group is the panicked crowd, who would be running around, shouting or sighing in response to the desperate situation of the Earth. The inventor would see them, but won’t interact with them. Another group is the cult, who worship the unknown extraterrestrials, regarding them more as gods who would save humans. The cult would see the inventor and come to her to persuade her into trusting and contacting the aliens. The cult also hate the inventor because the inventor, who herself is also a scientist, is involved in the process of high-tech development at the expense of resources depletion.
+
+### Interactions Sequence
+- The inventor teleports to the outside area and sees people running and shouting around
+- Three cults notice the inventor and run to her in sequence
+- Three cults start talking to the inventor one after another
+- After they finish talking, run back to their original place and start praying again
+
+### Implementation
+![image](https://user-images.githubusercontent.com/71305489/182640403-d1168e12-5316-4911-9e5a-468cb8e0cdc6.png)
+
+
+# Challenges I've faced and how I solved them
+
+## Technical Challenges
+Our project is animation and interaction heavy. The hard part is not only about the detailed scripting logic, but also about linking everything together (animation, scripts, shaders, particles, etc). There are many details in each step that would require logics and systematic thinking to keep track of everything. Also, the Awake(), Start(), Update() and Coroutines should be considered carefully before using them because they’re directly related to the frames and would directly impact the visual effects.
+
+Take the pouring interaction and plant growing animation as an example. The steps are explained in detail as follows:
+
+![image](https://user-images.githubusercontent.com/71305489/182640767-f26d1402-3d75-4739-b788-8b9fb001e93a.png)
+
+There are actually far more details than described above, like how much/fast the particles move, how to make the particles move within a certain boundary and when to kill them. Also, whether to update the animation in Update() or in a Coroutine would also impact the visual effects. There are a lot of detailed manipulations about the parameters to make them work as a whole. We also had a lot of issues with small missing elements or steps that would take us HOURS to figure out (ie. accidentally deleting a rigid body).
+
+Another technical challenge we ran into was related to our characters. We had character that we would’ve loved to use but because of how high-poly they were, they destroyed the oculus’ performance causing us to have to choose to let them go.
+
+One last one to mention was implementing the dialogue, we did waste a week trying to integrate ink, when going with a much more simpler hardcoded option was more than sufficient enough for our project.
+
+## Expecting User Behavior
+Following the previous section, there are also challenges about expecting user behavior. For example, in the lab scene, there are many expected behaviors that users may not necessarily follow. Another mind-map to show the problems and solutions:
+
+![image](https://user-images.githubusercontent.com/71305489/182640874-1d4169fe-fc82-451d-b354-2868f03a43d6.png)
+
+The detailed expectations of possible user behavior and proper limitation/intervention could protect the whole user experience without breaking the fourth wall.
+
+## Storytelling Challenges
+Our project was a very ambitious one, totally at 7 scenes that the user experiences. The challenges appeared soon after, when we realized the considerable amount of work that we had to pour into each scene to make it work in the grander scheme of the tale itself. We had to find a way to deliver a playable experience to the users taking into account our time and skill restraints. The user initially was meant to feel small and hopeless, not knowing what to decide. Instead we twisted in a way that would form a more empowered user, one that is aware of what is happening and confident of the power that they are given. Our focus shifted to have the player listen to all the different voices before making the decision. When the time comes, the user sees those same voices, reminded of the weight of the situation and that the choice is not only affecting them, but many others as well.
+
+A compromise we had to make lies in the fact that our original characters were a bit too much for the oculus to handle (we ran into a performance issue), this made us decide to lower the amount of NPCs that we have, only keeping those that were crucial to the story line. In the outside scene for example (we would have loved to have more screaming people), we had to significantly reduce the crowd size.
+
+Another storytelling challenge also came with the two ending scenes, we already had built so many interactions so the question was: do we add more interactions? or do we leave space for the user to contemplate? We chose the latter, due to the lack of time and to try to have open ended scenes where the user can find themselves imagining what the consequences of their choices will be.
+
+
+
