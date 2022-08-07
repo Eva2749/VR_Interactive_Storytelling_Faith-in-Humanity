@@ -1,4 +1,4 @@
-# Faith (in) humanity: A VR-driven Interactive Storytelling Game Adapted From *The Three-Body Problem*
+# Faith (in) humanity: An Interactive Storytelling VR Game Adapted From *The Three-Body Problem*
 
 
 See the full documentation here: https://dhabiakm.github.io/Alt-Realities-Final-Project/
@@ -27,7 +27,7 @@ The lab scene is the player’s first encounter with the group of interest — t
 - Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
 - Leave the lab: the inventor received enough information and would like to take a walk outside to clear her head. Joseph would say goodbye to her and the inventor would go to the teleport portal and teleport to the outside world.
 
-### Implementation
+### Implementation (Programming Logic)
 
 ![image](https://user-images.githubusercontent.com/71305489/182591126-46b2e9ef-e12c-404c-8260-1cfe6e8a09ea.png)
 
@@ -44,7 +44,7 @@ The outside scene is where the inventor encounters another two groups of people 
 - Three cults start talking to the inventor one after another
 - After they finish talking, run back to their original place and start praying again
 
-### Implementation
+### Implementation (Programming Logic)
 ![image](https://user-images.githubusercontent.com/71305489/182640403-d1168e12-5316-4911-9e5a-468cb8e0cdc6.png)
 
 
