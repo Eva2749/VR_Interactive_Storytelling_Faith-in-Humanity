@@ -5,12 +5,12 @@ See the full documentation here: https://dhabiakm.github.io/Alt-Realities-Final-
 
 # Project Description
 ### Inspiration and Questions to Explore
-Our project is inspired by the popular science fiction novel *The Three-Body Problem*, whose plot focuses on extraterrestrial forces that are trying to destroy Earth. Our take on it, however, was not to replicate the storyline nor the idea itself but rather zoom into the people aspect of the story. How would different people react when they realize that everything would collapse? What's the best direction for humans to go and who we should be listening to? As the player, you'll be enrountering various groups of interest and be left with the decision to decide the future of the human beings. What decision will you make? Is that a right choice? 
+Our project is inspired by the popular science fiction novel *The Three-Body Problem*, whose plot focuses on extraterrestrial forces that are trying to destroy Earth. Our take on it, however, was not to replicate the storyline nor the idea itself but rather zoom into the people aspect of the story. How would different people react when they realize that everything would collapse? What's the best direction for humans to go and who we should be listening to? As the player, **_you'll be enrountering various groups of interest and be left with the decision to decide the future of the human beings_**. What decision will you make? Is that a right choice? 
 
 We twisted the story background a little bit to intensify the moral problem. The main character is a prestigious inventor who has the supermacy to determine humans' future. Faced with a dying Earth and the invitation from an unknown extraterrestrial, the inventor is left with a moral question - should we trust the aliens and select a group of human elites to join them? Or should we reject the aliens' invitation and stay on the planet, which is doomed to death? Either decision would lead to huge loss of humans' life and with little hope. It's a gamble. 
 
 ### User Experience
-Our goal is to create a playable experience through which the player would interact with people with different points of views in terms of the future of the dying Earth, before the player makes the final decision. The core experience is focused on immersive storytelling through character building and environmental building, so the majority of the efforts is dedicated to ensuring a linear and progressive interaction sequence. 
+Our goal is to create a playable experience through which the player would interact with people with different points of views in terms of the future of the dying Earth, before the player makes the final decision. The core experience is focused on **_immersive storytelling through character building and environmental building_**, so the majority of the efforts is dedicated to ensuring a linear and progressive interaction sequence. 
 
 # My Work
 ## Scene 3 - The Lab
