@@ -1,7 +1,10 @@
 # Faith (in) humanity: An Interactive Storytelling VR Game Adapted From *The Three-Body Problem*
 
+See the [full documentation](https://dhabiakm.github.io/Alt-Realities-Final-Project/)
 
-See the full documentation here: https://dhabiakm.github.io/Alt-Realities-Final-Project/
+See my programming work here: [lab scene](https://github.com/Eva2749/VR_Interactive_Storytelling_Faith-in-Humanity/tree/main/Faith(in)Humanity/Assets/Scripts/Lab), [outside scene](https://github.com/Eva2749/VR_Interactive_Storytelling_Faith-in-Humanity/tree/main/Faith(in)Humanity/Assets/Scripts/Outside)
+
+See detailed breakdown of interaction and logic for [the lab scene](#programming-logic-for-the-lab-scene) and [the outside scene](#programming-logic-for-the-outside-scene)
 
 # Project Description
 ### Inspiration and Questions to Explore
@@ -27,7 +30,7 @@ The lab scene is the player’s first encounter with the group of interest — t
 - Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
 - Leave the lab: the inventor received enough information and would like to take a walk outside to clear her head. Joseph would say goodbye to her and the inventor would go to the teleport portal and teleport to the outside world.
 
-### Implementation (Programming Logic)
+### Programming Logic for the Lab Scene
 
 ![image](https://user-images.githubusercontent.com/71305489/182591126-46b2e9ef-e12c-404c-8260-1cfe6e8a09ea.png)
 
@@ -44,7 +47,7 @@ The outside scene is where the inventor encounters another two groups of people 
 - Three cults start talking to the inventor one after another
 - After they finish talking, run back to their original place and start praying again
 
-### Implementation (Programming Logic)
+### Programming Logic for the Outside Scene
 ![image](https://user-images.githubusercontent.com/71305489/182640403-d1168e12-5316-4911-9e5a-468cb8e0cdc6.png)
 
 
